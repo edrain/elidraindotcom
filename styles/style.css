@@ -1,0 +1,22 @@
+html, body{
+  height: 100%;
+}
+
+body {
+  background-color: #FFFFFF;
+  letter-spacing: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }
+
+a {
+  color: #000000;
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+  text-decoration: none;  
+}
+
+a:hover {
+  text-decoration: line-through;
+}
